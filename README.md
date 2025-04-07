@@ -1,0 +1,1 @@
+Website showcasing UI design and back-end integration; employing a minimalist look and consistent colours. Backend is client-sided and all information is kept on browser storage. Created for SEG 3125. Website was created with HTML, CSS, and JavaScript.
