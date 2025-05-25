@@ -7,7 +7,7 @@ function App() {
   return (
     <HashRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/portfolio" element={<Home />} />
         <Route path="/soon" element={<Soon />} />
       </Routes>
       <div id="custom-cursor"></div>
