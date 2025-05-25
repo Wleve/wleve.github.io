@@ -52,10 +52,3 @@ npm run build
 
 This will generate a `build` folder with the optimized production files.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
-
-## License
-
-This project is licensed under the MIT License.
