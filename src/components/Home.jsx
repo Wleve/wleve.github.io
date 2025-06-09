@@ -40,7 +40,7 @@ useEffect(() => {
             case 'projects':
                 return (
                   <div className="images-grid">
-                    <a href="/soon" target="_blank" rel="noopener noreferrer">
+                    <a href='https://geared-up-jp7s.vercel.app/' target="_blank" rel="noopener noreferrer">
                       <img src={Service} alt="Service" />
                     </a>
                     <a href="/soon" target="_blank" rel="noopener noreferrer">
