@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.054c3052.chunk.css",
-    "main.js": "/static/js/main.5a82b708.chunk.js",
-    "main.js.map": "/static/js/main.5a82b708.chunk.js.map",
+    "main.js": "/static/js/main.080fa122.chunk.js",
+    "main.js.map": "/static/js/main.080fa122.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.69239455.js",
     "runtime-main.js.map": "/static/js/runtime-main.69239455.js.map",
     "static/js/2.9c08dd12.chunk.js": "/static/js/2.9c08dd12.chunk.js",
@@ -14,7 +14,7 @@
     "static/media/Service.ae55a1b7.jpg": "/static/media/Service.ae55a1b7.jpg",
     "static/media/Will.d1daa1f1.jpg": "/static/media/Will.d1daa1f1.jpg",
     "static/media/analysis.8721a80c.jpg": "/static/media/analysis.8721a80c.jpg",
-    "static/media/bb.56a3e2a9.jpg": "/static/media/bb.56a3e2a9.jpg",
+    "static/media/bb.db2121ac.jpg": "/static/media/bb.db2121ac.jpg",
     "static/media/resume-preview.2d76a6db.png": "/static/media/resume-preview.2d76a6db.png",
     "static/media/resume.a69cac5e.pdf": "/static/media/resume.a69cac5e.pdf",
     "static/media/skills.d20da264.png": "/static/media/skills.d20da264.png"
@@ -23,6 +23,6 @@
     "static/js/runtime-main.69239455.js",
     "static/js/2.9c08dd12.chunk.js",
     "static/css/main.054c3052.chunk.css",
-    "static/js/main.5a82b708.chunk.js"
+    "static/js/main.080fa122.chunk.js"
   ]
 }
