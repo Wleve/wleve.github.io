@@ -3,7 +3,7 @@ import backIcon from '../assets/back.png';
 import Analysis from '../assets/Analysis.png';
 import BB from '../assets/bb.jpg';
 import Ecommerce from '../assets/Ecommerce.jfif';
-import Service from '../assets/Service.jpg';
+import Service from '../assets/Service.png';
 import Will from '../assets/Will.jpg';
 import resume from '../assets/resume.pdf';
 import resumepreview from '../assets/resume-preview.png';
@@ -42,15 +42,19 @@ useEffect(() => {
                   <div className="images-grid">
                     <a href='https://geared-up-jp7s.vercel.app/' target="_blank" rel="noopener noreferrer">
                       <img src={Service} alt="Service" />
+                      <div className="project-banner">Service Site</div>
                     </a>
                     <a href="https://heroic-florentine-5b49d7.netlify.app/" target="_blank" rel="noopener noreferrer">
                       <img src={BB} alt="Memory Game Website" />
+                      <div className="project-banner">Memory Game Website Site</div>
                     </a>
                     <a href="https://e-commercesiteseg3125.netlify.app/" target="_blank" rel="noopener noreferrer">
                       <img src={Ecommerce} alt="Ecommerce" />
+                      <div className="project-banner">Ecommerce Site</div>
                     </a>
                     <a href="https://covidview.netlify.app/" target="_blank" rel="noopener noreferrer">
                       <img src={Analysis} alt="Analysis" />
+                      <div className="project-banner">Analysis Site</div>
                     </a>
                   </div>
                 );
