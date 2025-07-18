@@ -1,6 +1,6 @@
 import React, { useState, useRef, useEffect } from 'react'
 import backIcon from '../assets/back.png';
-import Analysis from '../assets/analysis.jpg';
+import Analysis from '../assets/Analysis.png';
 import BB from '../assets/bb.jpg';
 import Ecommerce from '../assets/Ecommerce.jfif';
 import Service from '../assets/Service.jpg';
@@ -43,13 +43,13 @@ useEffect(() => {
                     <a href='https://geared-up-jp7s.vercel.app/' target="_blank" rel="noopener noreferrer">
                       <img src={Service} alt="Service" />
                     </a>
-                    <a href="/soon" target="_blank" rel="noopener noreferrer">
-                      <img src={BB} alt="BB" />
+                    <a href="https://heroic-florentine-5b49d7.netlify.app/" target="_blank" rel="noopener noreferrer">
+                      <img src={BB} alt="Memory Game Website" />
                     </a>
-                    <a href="/soon" target="_blank" rel="noopener noreferrer">
+                    <a href="https://e-commercesiteseg3125.netlify.app/" target="_blank" rel="noopener noreferrer">
                       <img src={Ecommerce} alt="Ecommerce" />
                     </a>
-                    <a href="/soon" target="_blank" rel="noopener noreferrer">
+                    <a href="https://covidview.netlify.app/" target="_blank" rel="noopener noreferrer">
                       <img src={Analysis} alt="Analysis" />
                     </a>
                   </div>
